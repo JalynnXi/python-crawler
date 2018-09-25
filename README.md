@@ -9,4 +9,5 @@
 ### 二、多进程快速爬取豆瓣电影250数据数据(multipelPrcessCrawer.py)
 
 1、导入Pool进程池，开四个进程爬取豆瓣电影排行信息
+
 2、存入mysql数据库中
