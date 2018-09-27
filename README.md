@@ -13,3 +13,11 @@
 2、存入mysql数据库中
 
 ### 三、lxml爬取小说数据（lxml-scrawer.py）
+
+### 四、爬取《斗破苍穹》小说原文（doupo.py）
+
+### 五、jieba统计词频（jiebatest.py）
+
+1、导入jieba包，统计《斗破苍穹》词频
+
+2、用wordart可视化
