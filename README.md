@@ -21,3 +21,5 @@
 1、导入jieba包，统计《斗破苍穹》词频
 
 2、用wordart可视化
+![image.png](https://upload-images.jianshu.io/upload_images/2375446-70e52b0bd531c8f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![B763170B-93E1-4F1C-A248-77EEBFAA1BB2.png](https://upload-images.jianshu.io/upload_images/2375446-b16d81236ee55430.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
