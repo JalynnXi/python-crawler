@@ -15,6 +15,7 @@
 ### 三、lxml爬取小说数据（lxml-scrawer.py）
 
 ### 四、爬取《斗破苍穹》小说原文（doupo.py）
+1、爬取《斗破苍穹》小说所有章节的内容
 
 ### 五、jieba统计词频（jiebatest.py）
 
